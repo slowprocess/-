@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{"title":"featured","text":" ","tags":"","url":"index.html","UUID":"6BD0F618B4014F90A4844253807F63FB"},{"title":"contact","text":" Get in touch - info@slowprocess.net","tags":"","url":"contact.html","UUID":"0FA9C43680124D80812947AB5B7F5F10"}]};
+var tipuesearch = {"pages": [{"title":"Slow Process","text":" ","tags":"","url":"index.html","UUID":"6BD0F618B4014F90A4844253807F63FB"},{"title":"Slow Process","text":" Get in touch - info@slowprocess.net","tags":"","url":"contact.html","UUID":"0FA9C43680124D80812947AB5B7F5F10"}]};
