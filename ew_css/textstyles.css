@@ -1,7 +1,70 @@
-.para1{font-size: 0; text-align:center; padding-bottom:11px; margin-top:0px; padding-top:0px;}
-.linkStyle_2{color:#000000; text-decoration:none; /* 1 1 #00F900 #D4D4D4 #919191 */}
-.linkStyle_2:visited{color:#D4D4D4; text-decoration:none;}
-.linkStyle_2:hover{color:#919191; text-decoration:none;}
+.para1{font-size: 0; text-align:left; padding-bottom:11px; margin-top:0px; padding-top:0px;}
+.Style2{font-family:  'HelveticaNeue-UltraLight', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 15px; 
+ font-weight:200; 
+ color: #FEFEFE;
+ word-wrap: break-word;}
+.Style3{font-family:  'HelveticaNeue-Bold', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 30px; 
+ font-weight:700; 
+ margin:0;
+ color: #FEFEFE;
+ letter-spacing: -0.04em; 
+ word-wrap: break-word;}
+.Style4{font-family:  'HelveticaNeue-Bold', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 30px; 
+ font-weight:700; 
+ color: #FEFEFE;
+ letter-spacing: -0.04em; 
+ word-wrap: break-word;}
+.Style5{font-family:  'HelveticaNeue', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 23px; 
+ font-weight:normal; 
+ color: #FEFEFE;
+ letter-spacing: -0.04em; 
+ word-wrap: break-word;}
+.Style6{font-family:  'AppleSystemUIFont', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 20px; 
+ font-weight:normal; 
+ margin:0;
+ color: #FEFEFE;
+ word-wrap: break-word;}
+.Style7{font-family:  'AppleSystemUIFont', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 20px; 
+ font-weight:normal; 
+ color: #FEFEFE;
+ word-wrap: break-word;}
+.para8{font-size: 0; text-align:left; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.Style9{font-family:  'AppleSystemUIFont', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 17px; 
+ font-weight:normal; 
+ color: #FEFEFE;
+ word-wrap: break-word;}
+.Style10{font-family:  'Arial' ,sans-serif ;
+ font-size: 17px; 
+ font-weight:normal; 
+ margin:0;
+ color: #FEFEFE;
+ word-wrap: break-word;}
+.Style11{font-family:  'Arial' ,sans-serif ;
+ font-size: 17px; 
+ font-weight:normal; 
+ color: #FEFEFE;
+ word-wrap: break-word;}
+.linkStyle_12{font-family:  'HelveticaNeue-LightItalic', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 16px; 
+ font-weight:300; 
+ font-style: italic;
+ color: #FEFEFE;
+ text-decoration: none; 
+ /* 1 1 0 #00F900 #D4D4D4 #B41700 */
+ word-wrap: break-word;}
+.linkStyle_12:visited{color:#D4D4D4; text-decoration:none;}
+.linkStyle_12:hover{color:#B41700; text-decoration:none;}
+.para15{font-size: 0; text-align:center; padding-bottom:11px; margin-top:0px; padding-top:0px;}
+.linkStyle_16{color:#000000; text-decoration:none; /* 1 1 #00F900 #D4D4D4 #919191 */}
+.linkStyle_16:visited{color:#D4D4D4; text-decoration:none;}
+.linkStyle_16:hover{color:#919191; text-decoration:none;}
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
